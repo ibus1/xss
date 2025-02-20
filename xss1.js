@@ -1,1 +1,1 @@
-alert(`Origin is: ${window.origin} and the token:"${localStorage.getItem("apiToken")}"`);
+alert(`Origin is: ${window.origin} and the token:"${localStorage.getaccount("apiToken")}"`);

